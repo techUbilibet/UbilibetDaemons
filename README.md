@@ -9,8 +9,10 @@ This Appilcation is JavaSE, it is not intende to install in any kind of Appserve
 
 To extract the project open a terminal and execute
 
-$ tar -xzvf Ubilibet-YYYYMMDD.tar.gz
+$ tar -xzvf Ubilibet-[YYYYMMDD].tar.gz [TARGET]
+
 on YYYYMMDD corresponds to the date of last Update
+on TARGET is the directory where you want to extract project.
 
 We have attached all the libraries we use out of standard ones.
 
